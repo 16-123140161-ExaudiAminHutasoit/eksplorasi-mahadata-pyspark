@@ -1,0 +1,38 @@
+{
+    "waktu_pencatatan_utc": "2026-10-12T15:15:41.552552+00:00",
+    "lingkungan": {
+        "python": "3.13.16",
+        "pyspark": "4.0.1",
+        "spark": "4.0.1",
+        "java": "openjdk version \"17.0.20.1\" 2026-08-18",
+        "mode": "local[2]"
+    },
+    "dataset": {
+        "sumber": "UCI Cleveland Heart Disease",
+        "sha256": "a74b7efa387bc9d108d7d0115d831fe9b414b29ae7124f331b622b4efa0427c8",
+        "data_awal": 303,
+        "data_bersih": 297,
+        "data_latih": 220,
+        "data_uji": 77
+    },
+    "model": {
+        "algoritma": "Decision Tree",
+        "max_depth": 5,
+        "max_bins": 32,
+        "max_categories": 5,
+        "seed": 42,
+        "kedalaman_aktual": 5,
+        "jumlah_node": 39,
+        "waktu_latih_detik": 3.954558351999367
+    },
+    "evaluasi": {
+        "accuracy": 0.8311688311688312,
+        "precision_kelas_1": 0.7857142857142857,
+        "recall_kelas_1": 0.7586206896551724,
+        "f1_kelas_1": 0.7719298245614034,
+        "TP": 22,
+        "TN": 42,
+        "FP": 6,
+        "FN": 7
+    }
+}
