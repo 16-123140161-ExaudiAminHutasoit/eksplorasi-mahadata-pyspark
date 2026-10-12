@@ -48,7 +48,7 @@ Angka di atas berasal dari eksekusi notebook yang tersimpan dalam `hasil/hasil_e
 
 ## Catatan penggunaan AI
 
-ChatGPT digunakan sebagai bantuan untuk memahami panduan, menyusun dan menjelaskan bagian kode, menelusuri error, serta membantu dokumentasi. Eksekusi eksperimen dan pemeriksaan output dilakukan melalui Google Colab; hasil yang disimpan tidak diubah untuk menyamakan angka dengan artikel. Penggunaan AI juga dijelaskan pada laporan tugas.
+ChatGPT digunakan sebagai bantuan untuk memahami panduan, dan membantu memahami kode, dan menelusuri error,. Eksekusi eksperimen dan pemeriksaan output dilakukan melalui Google Colab. Penggunaan AI juga dijelaskan pada laporan tugas.
 
 ## Referensi
 
